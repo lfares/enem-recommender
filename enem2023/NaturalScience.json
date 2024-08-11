@@ -1,0 +1,50 @@
+{
+    "1": {
+        "text": "O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil",
+        "statement": "Esse método contribui para a preservação das abelhas porque",
+        "alternatives": {
+            "a": "reduz sua predação",
+            "b": "reduz o uso de pesticidas",
+            "c": "reduz a competição por abrigo",
+            "d": "aumenta a oferta de alimento",
+            "e": "aumenta os locais de reprodução"
+        },
+        "correct_answer": "d",
+        "subject": {
+            "ids": ["S1-M22", "S1-M24"],
+            "text": ["Ecologia - estudo das populações, ecologia de comunidades e dinâmica dos ecossistemas", "Ecologia - problemas ambientais"]
+        }
+    },
+    "2": {
+        "text": "Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos.Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.",
+        "statement": "As estratégias citadas eram utilizadas com o objetivo de",
+        "alternatives": {
+            "a": "tratar a diarreia",
+            "b": "prevenir a anemia",
+            "c": "evitar as verminoses",
+            "d": "remediar o raquitismo",
+            "e": "combater a febre amarela"
+        },
+        "correct_answer": "",
+        "subject": {
+            "ids": ["S1-M17", "S1-M18"],
+            "text": ["Parasitologia - conceitos gerais e doenças causadas por vírus e bactérias", "Parasitologia - doenças causadas por protozoários e vermes"]
+        }
+    },
+    "3": {
+        "text": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia",
+        "statement": "A geração dessa energia tem como característica:",
+        "alternatives": {
+            "a": "Formar resíduos facilmente recicláveis.",
+            "b": "Promover o aumento do desmatamento.",
+            "c": "Contribuir para a produção de chuva ácida",
+            "d": "Emitir gases tóxicos que são lançados no ambiente",
+            "e": "Produzir calor sem o consumo de combustíveis fósseis"
+        },
+        "correct_answer": "",
+        "subject": {
+            "ids": [],
+            "text": []
+        }
+    }
+}
