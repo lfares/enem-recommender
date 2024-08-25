@@ -10,9 +10,9 @@
             "e": "aumenta os locais de reprodução"
         },
         "correct_answer": "d",
-        "subject": {
-            "ids": ["S1-M22", "S1-M24"],
-            "text": ["Ecologia - estudo das populações, ecologia de comunidades e dinâmica dos ecossistemas", "Ecologia - problemas ambientais"]
+        "module": {
+            "ids": [],
+            "text": []
         }
     },
     "2": {
@@ -26,9 +26,9 @@
             "e": "combater a febre amarela"
         },
         "correct_answer": "",
-        "subject": {
-            "ids": ["S1-M17", "S1-M18"],
-            "text": ["Parasitologia - conceitos gerais e doenças causadas por vírus e bactérias", "Parasitologia - doenças causadas por protozoários e vermes"]
+        "module": {
+            "ids": [],
+            "text": []
         }
     },
     "3": {
@@ -42,7 +42,7 @@
             "e": "Produzir calor sem o consumo de combustíveis fósseis"
         },
         "correct_answer": "",
-        "subject": {
+        "module": {
             "ids": [],
             "text": []
         }
