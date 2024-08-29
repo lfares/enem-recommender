@@ -29,7 +29,7 @@
             "28": "Biotecnologia"
         }
     },
-    "física": {
+    "fisica": {
         "id": 2,
         "modules": {
             "29": "Estudo do movimento",
@@ -59,7 +59,7 @@
             "53": "Introdução ao estudo das lentes e óptica da visão"
         }
     },
-    "química": {
+    "quimica": {
         "id": 3,
         "modules": {
             "54": "Separação de misturas",
