@@ -1,5 +1,6 @@
 from openai import OpenAI
 import json
+import re
 
 def retrieve_subjects(enemComponent):
     subjectByEnemComponentFile = open('./todaTeoria/subjectByEnemComponent.json')
@@ -41,12 +42,27 @@ def create_openAi_user_content(modules, questionText, questionStatement, alterna
     content = content + '</alternatives>'
     return content
 
+def add_modules_to_json(questionId, modules):
+    with open('./todaTeoria/ModulesIdByEnemQuestion.json', 'r+') as modulesIdFile:
+        modulesIdJson = json.load(modulesIdFile)
+
+        newQuestion = {questionId: []}
+        for module in modules:
+            moduleId = re.findall(r'\d+', module)[0]
+            newQuestion[questionId].append(moduleId)
+
+        modulesIdJson.update(newQuestion)
+        modulesIdFile.seek(0)
+        json.dump(modulesIdJson, modulesIdFile)
+    
+
 enemComponent = "naturalScience" # can be also retrieved from user
-questionId = "1" # can be also retrieved from user
+questionId = "3" # can be also retrieved from user
 todaTeoriaSubjects = retrieve_subjects(enemComponent)
 todaTeoriaModules = retrieve_modules(todaTeoriaSubjects)
 questionText, questionStatement, alternatives = retrieve_enem_question(questionId)
 userContent = create_openAi_user_content(todaTeoriaModules, questionText, questionStatement, alternatives)
+print(userContent)
 
 client = OpenAI()
 miniModel = "gpt-4o-mini"
@@ -67,5 +83,8 @@ completion = client.chat.completions.create(
 )
 
 print(completion.choices[0].message)
+foundModules = str(completion.choices[0].message).split('<modules>')[1].split('; ')
+print(foundModules)
+add_modules_to_json(questionId, foundModules)
 
 
