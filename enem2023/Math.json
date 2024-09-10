@@ -13,7 +13,7 @@
             "d": "4665,6",
             "e": "4860,0"
         },
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     "2": {
         "text": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração. Os funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.",
@@ -29,7 +29,7 @@
             "d": "4500",
             "e": "9000"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "3": {
         "text": "Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B disponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna. \n Com o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas.",
@@ -41,7 +41,7 @@
             "d": "68",
             "e": "80"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "4": {
         "text": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela. \n O gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II. \n Suponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
@@ -57,7 +57,7 @@
             "d": "Setembro",
             "e": "Outubro"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "5": {
         "text": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.",
@@ -73,7 +73,7 @@
             "d": "moda < média < mediana",
             "e": "moda < mediana < média"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "6": {
         "text": "No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos ficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto, um sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão depositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com seu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano, três cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro ano. Todos os cartões têm a mesma probabilidade de serem sorteados.",
@@ -85,7 +85,7 @@
             "d": "2/9",
             "e": "3/8"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "7": {
         "text": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto cujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador desse vilarejo consome, em média, 200 litros de água por dia. \n No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água nos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório e constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água durante os 10 dias seguintes. Considere 3 como aproximação para π.",
@@ -97,7 +97,7 @@
             "d": "140",
             "e": "150"
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "8": {
         "text": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, a lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%. \n A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma quantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25% menor que o deste ano.",
@@ -109,7 +109,7 @@
             "d": "30",
             "e": "33"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "9": {
         "text": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m2 de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.",
@@ -121,7 +121,7 @@
             "d": "1,8",
             "e": "2,7"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "10": {
         "text": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4, Q5 e Q6 também indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo alpha = AQ1B.",
@@ -137,7 +137,7 @@
             "d": "Q5",
             "e": "Q6"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "11": {
         "text": "O triângulo da figura é denominado triângulo mágico. Nos círculos, escrevem-se os números de 1 a 6, sem repetição, com um número em cada círculo. O objetivo é distribuir os números de forma que as somas dos números em cada lado do triângulo sejam iguais. \n Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.",
@@ -153,7 +153,7 @@
             "d": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12",
             "e": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "12": {
         "text": "Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada.",
@@ -165,7 +165,7 @@
             "d": "7",
             "e": "8"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "13": {
         "text": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura. \n Os cabos de aço formam um ângulo a com o plano do chão. \n Por medida de segurança, há apenas três opções de instalação: \n - opção I: h = 11 m e alpha = 30° \n - opção II: h = 12 m e alpha = 45° \n - opção III: h = 18 m e alpha = 60°",
@@ -181,7 +181,7 @@
             "d": "12(sqrt(3))",
             "e": "22"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "14": {
         "text": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida. \n A tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm. \n Essa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.",
@@ -197,7 +197,7 @@
             "d": "1 : 5 000",
             "e": "1 : 500 000"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "15": {
         "text": "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.",
@@ -209,7 +209,7 @@
             "d": "C=1-0,9q",
             "e": "C=q-10"
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "16": {
         "text": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo. \n Durante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
@@ -221,7 +221,7 @@
             "d": "7",
             "e": "9"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "17": {
         "text": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível N de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo N = log I^10 - log (I0)^10, I a intensidade do som e I0 = 10^-12 W/m^2.",
@@ -233,7 +233,7 @@
             "d": "IV",
             "e": "V"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "18": {
         "text": "Um supermercado conta com cinco caixas disponíveis para pagamento. Foram instaladas telas que apresentam o tempo médio gasto por cada caixa para iniciar e finalizar o atendimento de cada cliente, e o número de pessoas presentes na fila de cada caixa em tempo real. Um cliente, na hora de passar sua compra, sabendo que cada um dos cinco caixas iniciará um novo atendimento naquele momento, pretende gastar o menor tempo possível de espera na fila. Ele observa que as telas apresentavam as informações a seguir. \n - Caixa I: atendimento 12 minutos, 5 pessoas na fila. \n - Caixa II: atendimento 6 minutos, 9 pessoas na fila. \n - Caixa III: atendimento 5 minutos, 6 pessoas na fila. \n - CaixaIV:atendimento15minutos,2pessoasnafila. \n - Caixa V: atendimento 9 minutos, 3 pessoas na fila.",
@@ -245,7 +245,7 @@
             "d": "IV",
             "e": "V"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "19": {
         "text": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.",
@@ -261,7 +261,7 @@
             "d": "triângulo isósceles",
             "e": "arco de circunferência"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "20": {
         "text": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m^2. Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.",
@@ -277,7 +277,7 @@
             "d": "500",
             "e": "400"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "21": {
         "text": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:",
@@ -293,7 +293,7 @@
             "d": "14",
             "e": "24"
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "22": {
         "text": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade. \n Após a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
@@ -309,7 +309,7 @@
             "d": "50",
             "e": "70"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "23": {
         "text": "Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe por R$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 por dia. Sozinho, ele consegue, ao final de um dia de trabalho, pescar 180 kg de peixe, o que é suficiente apenas para cobrir o custo fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um R$ 250,00 por dia de trabalho. Além desse valor, 4% da receita obtida pela venda de peixe é repartida igualmente entre os ajudantes. Considerando o tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com um ajudante a pesca diária é de 300 kg e que, a partir do segundo ajudante contratado, aumenta-se em 100 kg a quantidade de peixe pescada por ajudante em um dia de trabalho.",
@@ -321,7 +321,7 @@
             "d": "4",
             "e": "5"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "24": {
         "text": "Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez.",
@@ -333,7 +333,7 @@
             "d": "12",
             "e": "18"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "25": {
         "text": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres: \n - algarismos de 0 a 9; \n - 26 letras minúsculas do alfabeto; \n - 26 letras maiúsculas do alfabeto; \n - 6 caracteres especiais !, @, #, $, *, &. \n Três tipos de estruturas para senha foram apresentadas ao usuário: \n - tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos; \n - tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial; \n - tipoIII:formadaporseiscaracteresdistintos,iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais. \n Considere p1, p2 e p3 as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
@@ -345,7 +345,7 @@
             "d": "tipo III, pois p3 < p2 < p1",
             "e": "tipo III, pois tem maior quantidade de caracteres"
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "26": {
         "text": "Uma loja vende seus produtos de duas formas: à vista ou financiado em três parcelas mensais iguais. Para definir o valor dessas parcelas nas vendas financiadas, a loja aumenta em 20% o valor do produto à vista e divide esse novo valor por 3. A primeira parcela deve ser paga no ato da compra, e as duas últimas, 3 em 30 e 60 dias após a compra. \n Um cliente da loja decidiu comprar, de forma financiada, um produto cujo valor à vista é R$ 1 500,00. \n Utilize 5,29 como aproximação para (sqrt(28)).",
@@ -357,7 +357,7 @@
             "d": "21,5%",
             "e": "23,3%"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "27": {
         "text": "Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço y do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume x de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00.",
@@ -369,7 +369,7 @@
             "d": "y = 250x + 500",
             "e": "y = 500x + 250"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "28": {
         "text": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.",
@@ -385,7 +385,7 @@
             "d": "",
             "e": ""
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "29": {
         "text": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.",
@@ -401,7 +401,7 @@
             "d": "adultos entre 20 e 29 anos",
             "e": "crianças de 6 meses a 2 anos"
         },
-        "correct_answer": ""
+        "correct_answer": "-"
     },
     "30": {
         "text": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas. \n Nessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
@@ -417,7 +417,7 @@
             "d": "1,80",
             "e": "1,95"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "31": {
         "text": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade. \n Ela deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:",
@@ -433,7 +433,7 @@
             "d": "quinta-feira",
             "e": "sexta-feira"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "32": {
         "text": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.",
@@ -445,7 +445,7 @@
             "d": "(19,5 ; 20,5)",
             "e": "(3,5 ; 4,0)"
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "33": {
         "text": "Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55.",
@@ -457,7 +457,7 @@
             "d": "1/55 e 1/54",
             "e": "1/100 e 1/100"
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "34": {
         "text": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo L0 a intensidade na sua superfície. \n Considere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
@@ -473,7 +473,7 @@
             "d": "64/729 L0",
             "e": "128/2187 L0"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "35": {
         "text": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão V(x) = (x^2/4) - 10x + 105, em que os valores de x representam os dias do mês, variando de 1 a 30. \n Um dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário V0 arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real. \n - Ótimo: V0 ≥ 24 \n - Bom: 20 ≤ V0 < 24 \n - Normal: 10 ≤ V0 < 20 \n - Ruim: 4 ≤ V0 < 10 \n - Péssimo: V0 < 4",
@@ -485,7 +485,7 @@
             "d": "Ruim",
             "e": "Péssimo"
         },
-        "correct_answer": ""
+        "correct_answer": "d"
     },
     "36": {
         "text": "O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.",
@@ -497,7 +497,7 @@
             "d": "2100",
             "e": "5200"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "37": {
         "text": "Sejam a, b e c as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores a, b e c são, respectivamente, os diâmetros dos círculos C1, C2 e C3, como apresentados na figura. \n Observe que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3). \n Um professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura. \n A partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
@@ -513,7 +513,7 @@
             "d": "alpha = 180°",
             "e": "180° < alpha < 360°"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "38": {
         "text": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.",
@@ -525,7 +525,7 @@
             "d": "(min.kg)/mL",
             "e": "(mL.kg)/min"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "39": {
         "text": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira. \n Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a posição da poltrona na fileira, respectivamente.",
@@ -541,7 +541,7 @@
             "d": "I1",
             "e": "I6"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "40": {
         "text": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.",
@@ -553,7 +553,7 @@
             "d": "10,50",
             "e": "10,65"
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "41": {
         "text": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.",
@@ -569,7 +569,7 @@
             "d": "89",
             "e": "92"
         },
-        "correct_answer": ""
+        "correct_answer": "e"
     },
     "42": {
         "text": "A figura ilustra uma roda-gigante no exato instante em mais alto dessa roda-gigante. \n Com o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
@@ -585,7 +585,7 @@
             "d": "",
             "e": ""
         },
-        "correct_answer": ""
+        "correct_answer": "a"
     },
     "43": {
         "text": "Estudantes trabalhando com robótica criaram uma “torneira inteligente” que automatiza sua abertura e seu fechamento durante a limpeza das mãos. A tecnologia funciona da seguinte forma: ao se colocarem as mãos sob a torneira, ela libera água durante 3 segundos para que a pessoa possa molhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos, enquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o enxágue por mais 3 segundos. Considere o tempo (t ), em segundo, contado a partir do instante em que se inicia o ciclo. A vazão de água nessa torneira é constante.",
@@ -597,7 +597,7 @@
             "d": "",
             "e": ""
         },
-        "correct_answer": ""
+        "correct_answer": "b"
     },
     "44": {
         "text": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.",
@@ -613,7 +613,7 @@
             "d": "okosa urapum urapum e okosa urapum okosa urapum urapum",
             "e": "okosa okosa urapum e okosa okosa okosa okosa"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     },
     "45": {
         "text": "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados: \n - outubro/2020: ImPC = 250 mm; \n - novembro/2020: ImPC = 150 mm; \n - dezembro/2020: ImPC = 200 mm; \n - janeiro/2021: ImPC = 450 mm; \n - fevereiro/2021: ImPC = 100 mm; \n - março/2021: ImPC = 200 mm. \n Com base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.",
@@ -625,6 +625,6 @@
             "d": "Janeiro",
             "e": "Fevereiro"
         },
-        "correct_answer": ""
+        "correct_answer": "c"
     }
 }
