@@ -3,6 +3,7 @@
         "text": "",
         "extra_resources": {
             "type": "image",
+            "title": "Fotografia da avó bordada",
             "content": ""
         },
         "statement": "A definição de Sertão descrita no bordado associa esse recorte espacial a",
@@ -327,6 +328,7 @@
         "text": "TEXTO I \n Por hora, apenas os mais abastados poderão sonhar em viajar ao espaço, seja por um foguete ou por um avião híbrido, mas toda a população global poderá sentir os efeitos dessas viagens e avanços tecnológicos. Para uma aventura dessas, as empresas tiveram que criar novas tecnologias que podem, em algum momento, voltar para a sociedade. A câmera fotográfica, hoje comum no mundo, antes foi uma invenção para ser usada em telescópios, e o titânio, usado até na medicina, foi desenvolvido para a construção de foguetes. \n TEXTO II",
         "extra_resources": {
             "type": "image",
+            "title": "BILIONÁRIOS LANÇAM NOVA ERA DE VIAGENS AO ESPAÇO...",
             "content": ""
         },
         "statement": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:",
@@ -379,6 +381,7 @@
         "text": "",
         "extra_resources": {
             "type": "image",
+            "title": "Taxa de fecundidade no Brasil",
             "content": ""
         },
         "statement": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
@@ -539,7 +542,8 @@
         "text": "",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "title": ["Simulação de mudança da temperatura média anual em relação ao período pré-industrial em três cenários de aquecimento global", "Simulação de mudança da pluviosidade média anual em relação ao período pré-industrial em três cenários de aquecimento global"],
+            "content": ["", ""]
         },
         "statement": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
         "alternatives": {

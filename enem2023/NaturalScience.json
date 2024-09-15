@@ -227,7 +227,8 @@
         "text": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2, com velocidade constante. A fim de que o exercício seja realizado com a mesma força F , os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças. \n Em ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "title": ["Aparelho do tipo 1", "Aparelho do tipo 2"],
+            "content": ["", ""]
         },
         "statement": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
         "alternatives": {
@@ -397,10 +398,16 @@
     },
     "31": {
         "text": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos. \n Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO^-). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M^(n+) representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44. \n O quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.",
-        "extra_resources": {
-            "type": "image",
-            "content": ["", ""]
-        },
+        "extra_resources": [
+            {
+                "type": "image",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [["Elemento metálico", "Eletronegatividade"], ["K", "0,82"], ["Ca", "1,00"], ["Mg", "1,31"], ["Zn", "1,65"], ["Fe", "1,83"]]
+            }
+        ],
         "statement": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
         "alternatives": {
             "a": "potássio",
@@ -507,6 +514,7 @@
         "text": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula C12H8Cl6, está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde. \n Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
         "extra_resources": {
             "type": "image",
+            "title": "Aldrin",
             "content": ""
         },
         "statement": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
@@ -559,6 +567,7 @@
         "text": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.",
         "extra_resources": {
             "type": "image",
+            "title": "Tensoativo não biodegradável",
             "content": ""
         },
         "statement": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
