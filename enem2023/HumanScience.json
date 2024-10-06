@@ -4,7 +4,8 @@
         "extra_resources": {
             "type": "image",
             "title": "Fotografia da avó bordada",
-            "content": ""
+            "content": "",
+            "description": "Tecido bordado em linhas coloridas com a estampa de uma senhora no centro da imagem. A estampa está rodeada pelo desenho de um recorte espacial do Sertão e, abaixo, no tecido, está escrita a seguinte definição: “Sertão é a avó bordando caminhos com linhas coloridas”. "
         },
         "statement": "A definição de Sertão descrita no bordado associa esse recorte espacial a",
         "alternatives": {
@@ -128,7 +129,8 @@
         "text": "",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "",
+            "description": "A charge, da artista Laerte, apresenta três quadrinhos de uma mulher sentada no chão segurando uma lâmpada mágica do Gênio. No primeiro quadrinho, a mulher pede para a lâmpada: “Eu queria poder.”. No segundo quadrinho, a lâmpada questiona: “Força? Visão de raio X? Telecinese? Telepatia?”. No terceiro quadrinho, a mulher responde: “Poder político.”."
         },
         "statement": "A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela",
         "alternatives": {
@@ -240,7 +242,8 @@
         "text": "Nas reportagens publicadas sobre a inauguração do Museu de Arte de São Paulo, em 1947, quando ele ainda ocupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo projeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum registro disso. O louvor se concentrou em seu marido e parceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu um Leão de Ouro póstumo, a maior homenagem da Bienal de Arquitetura de Veneza, e tem agora sua história contada em duas biografias de peso, que procuram destrinchar uma carreira marcada pela ousadia e pela contradição.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "",
+            "description": "Museu de Arte de São Paulo (Masp) com imponente fachada de linhas retas no estilo arquitetônico modernista; em frente ao museu, há pessoas caminhando na calçada."
         },
         "statement": "As transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela",
         "alternatives": {
@@ -329,7 +332,8 @@
         "extra_resources": {
             "type": "image",
             "title": "BILIONÁRIOS LANÇAM NOVA ERA DE VIAGENS AO ESPAÇO...",
-            "content": ""
+            "content": "",
+            "description": "Intitulada Bilionários lançam nova era de viagens ao espaço..., a charge do artista Cazo apresenta três personagens que estão em um planeta desconhecido. Um astronauta desembarca de uma nave espacial e, entusiasmado, diz: “Viemos em paz!”. Enquanto isso, ocorre uma chamada de vídeo entre um nativo desse planeta e um indígena do planeta Terra que, de olho no astronauta, diz ao nativo: “Acredite em mim. Não confie nesse pessoal!”."
         },
         "statement": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:",
         "alternatives": {
@@ -382,7 +386,8 @@
         "extra_resources": {
             "type": "image",
             "title": "Taxa de fecundidade no Brasil",
-            "content": ""
+            "content": "",
+            "description": "Intitulado Taxa de fecundidade no Brasil, o gráfico de barras verticais indica o número de filhos por mulher, a cada década, de 1960 até 2050. Há um recorte no gráfico destacando que, nas décadas de 1960 até 2020, o número de filhos por mulher diminuiu de 6,3 para 1,5."
         },
         "statement": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
         "alternatives": {
@@ -543,7 +548,8 @@
         "extra_resources": {
             "type": "image",
             "title": ["Simulação de mudança da temperatura média anual em relação ao período pré-industrial em três cenários de aquecimento global", "Simulação de mudança da pluviosidade média anual em relação ao período pré-industrial em três cenários de aquecimento global"],
-            "content": ["", ""]
+            "content": ["", ""],
+            "description": "O infográfico representa simulações em duas sequências de mapas-múndi. A primeira sequência de mapas, intitulada Simulação de mudança da temperatura média anual em relação ao período pré-industrial em três cenários de aquecimento global, é constituída de três mapas-múndi, que apresentam variação da média do aquecimento global em 1,5 grau, 2 graus e 4 graus Celsius. Há uma escala de tonalidade indicando o aumento de temperatura, que varia de 0 a 7 graus Celsius, evidenciando um aumento da temperatura em regiões da Terra nos três cenários apresentados, especialmente nas regiões polares. \n A segunda sequência de mapas, intitulada Simulação de mudança da pluviosidade média anual em relação ao período pré-industrial em três cenários de aquecimento global, é constituída de três mapas-múndi, que apresentam variação da média do aquecimento global em 1,5 grau, 2 graus e 4 graus Celsius. Há uma escala de variação em percentual das chuvas, que começa em menos 40 por cento (mais seco) até mais 40 por cento (mais úmido), indicando uma diminuição das chuvas, principalmente nas médias latitudes, e um aumento das chuvas, especialmente nas altas latitudes e em porções da Zona Equatorial da Terra."
         },
         "statement": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
         "alternatives": {

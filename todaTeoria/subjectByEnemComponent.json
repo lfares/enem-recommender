@@ -3,5 +3,8 @@
         "biologia",
         "fisica",
         "quimica"
+    ],
+    "math": [
+        "matemática"
     ]
 }

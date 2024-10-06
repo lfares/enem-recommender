@@ -39,7 +39,8 @@
         "text": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seguintes parâmetros:",
         "extra_resources": {
             "type": "table",
-            "content": [["Teste", "Parâmetro medido"], [1, "Cálcio"], [2, "Cloreto"], [3, "Turbidez"], [4, "Coliformes totais"], [5, "Sólidos sedimentáveis"]]
+            "content": [["Teste", "Parâmetro medido"], [1, "Cálcio"], [2, "Cloreto"], [3, "Turbidez"], [4, "Coliformes totais"], [5, "Sólidos sedimentáveis"]],
+            "description": "O quadro indica os parâmetros medidos para testes de 1 a 5: Teste 1: cálcio; Teste 2: cloreto; Teste 3: turbidez; Teste 4: coliformes totais; Teste 5: sólidos sedimentáveis."
         },
         "statement": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
         "alternatives": {
@@ -64,7 +65,7 @@
         "correct_answer": "b"
     },
     "6": {
-        "text": "Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCl2. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCl2⋅ 2H2O. Considere a massa molar da água igual a 18 g molˆ-1, e a massa molar do cloreto de cálcio anidro igual a 111 g molˆ-1.",
+        "text": "Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCl2. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCl2⋅ 2H2O. Considere a massa molar da água igual a 18 g/mol, e a massa molar do cloreto de cálcio anidro igual a 111 g/mol.",
         "statement": "Na hidratação da substância presente no antimofo, o ganho percentual, em massa, é mais próximo de",
         "alternatives": {
             "a": "14%",
@@ -115,7 +116,8 @@
         "text": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas. \n Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração",
         "extra_resources": {
             "type": "table",
-            "content": [["Grandeza cinemática", "Módulo", "Sentido"], ["Velocidade", "v ≠ 0", "Para cima"], ["Velocidade", "v ≠ 0", "Para baixo"], ["Velocidade", "v = 0", "Indefinido (Grandezas com módulo nulo não têm sentido definido)"], ["Aceleração", "a ≠ 0", "Para cima"], ["Aceleração", "a ≠ 0", "Para baixo"], ["Aceleração", "a = 0", "Indefinido (Grandezas com módulo nulo não têm sentido definido)"]]
+            "content": [["Grandeza cinemática", "Módulo", "Sentido"], ["Velocidade", "v ≠ 0", "Para cima"], ["Velocidade", "v ≠ 0", "Para baixo"], ["Velocidade", "v = 0", "Indefinido (Grandezas com módulo nulo não têm sentido definido)"], ["Aceleração", "a ≠ 0", "Para cima"], ["Aceleração", "a ≠ 0", "Para baixo"], ["Aceleração", "a = 0", "Indefinido (Grandezas com módulo nulo não têm sentido definido)"]],
+            "description": "O quadro apresenta as grandezas cinemáticas da esfera: velocidade v e aceleração a. Quando o módulo de v é diferente de zero, o sentido é para cima ou para baixo. Quando o módulo de v é igual a zero, o sentido é indefinido. Quando o módulo de a é diferente de zero, o sentido é para cima ou para baixo. Quando o módulo de a é igual a zero, o sentido é indefinido."
         },
         "statement": "A escolha que corresponde à combinação correta é",
         "alternatives": {
@@ -228,7 +230,8 @@
         "extra_resources": {
             "type": "image",
             "title": ["Aparelho do tipo 1", "Aparelho do tipo 2"],
-            "content": ["", ""]
+            "content": ["", ""],
+            "description": "Duas figuras ilustram os aparelhos do tipo 1 e do tipo 2. \n Aparelho do tipo 1: um corpo de massa M1 está suspenso por uma extremidade de um cabo de aço vertical que passa por uma polia fixa no teto do aparelho. O cabo segue horizontalmente para outra polia fixa na lateral externa do aparelho. A partir dali, o cabo desce verticalmente passando por uma polia fixa à base do aparelho, e sobe verticalmente puxado por uma força F para cima. \n Aparelho do tipo 2: um cabo de aço preso ao teto do aparelho desce e contorna uma polia móvel que está presa a um corpo de massa M2. O cabo segue verticalmente para cima e passa por uma polia fixa no teto do aparelho. O cabo segue horizontalmente para outra polia fixa na lateral externa do aparelho. A partir dali, o cabo desce verticalmente passando"
         },
         "statement": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
         "alternatives": {
@@ -260,7 +263,8 @@
         "text": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "",
+            "description": "Cebolinha e Cascão brincam, a uma certa distância um do outro, com duas latas conectadas por um barbante esticado. Cebolinha segura uma lata de conservas, e Cascão, uma lata de lixo. Eles utilizam esse dispositivo para ouvir a voz um do outro."
         },
         "statement": "Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
         "alternatives": {
@@ -300,7 +304,8 @@
         "text": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s^2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s^2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e o assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s^2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "",
+            "description": "Um caminhão com velocidade na horizontal para a direita (representada pelo vetor V). Na superfície central da sua carroceria encontra-se apoiada uma caixa M. A caixa está presa à parte traseira da carroceria pela corda horizontal 1 e, à parte dianteira, pela corda horizontal 2."
         },
         "statement": "Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
         "alternatives": {
@@ -328,7 +333,8 @@
         "text": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "",
+            "description": "Gás nitrogênio é convertido em amônia por microrganismos do grupo 1. Detritos são convertidos em amônia por microrganismos do grupo 2. Amônia é convertida em nitrito por microrganismos do grupo 3. Nitrito é convertido em nitrato por microrganismos do grupo 4. Nitrato é convertido em gás nitrogênio por microrganismos do grupo 5."
         },
         "statement": "Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
         "alternatives": {
@@ -356,7 +362,8 @@
         "text": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.",
         "extra_resources": {
             "type": "table",
-            "content": [["Composto", "Nomenclatura"], ["I", "n-decano"], ["II", "n-heptano"], ["III", "2,2,4-trimetilpentano"], ["IV", "3-etil-4-metilex-1-eno"], ["V", "3-etil-2-metilpentan-1-ol"]]
+            "content": [["Composto", "Nomenclatura"], ["I", "n-decano"], ["II", "n-heptano"], ["III", "2,2,4-trimetilpentano"], ["IV", "3-etil-4-metilex-1-eno"], ["V", "3-etil-2-metilpentan-1-ol"]],
+            "description": "Quadro com compostos numerados de 1 a 5 e suas respectivas nomenclaturas. \n Composto 1: n-decano. \n Composto 2: n-heptano. \n Composto 3: 2,2,4-trimetilpentano. \n Composto 4: 3-etil-4-metilex-1-eno. \n Composto 5: 3-etil-2-metilpentan-1-ol."
         },
         "statement": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
         "alternatives": {
@@ -384,7 +391,8 @@
         "text": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2 e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "",
+            "description": "Uma fonte de energia ligada a três conjuntos, dispostos em série no sentido horário, na seguinte sequência: o conjunto em paralelo de L1 e R, o conjunto em paralelo de L2 e R, e o conjunto em paralelo de L3 e R."
         },
         "statement": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
         "alternatives": {
@@ -397,15 +405,17 @@
         "correct_answer": "c"
     },
     "31": {
-        "text": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos. \n Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO^-). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M^(n+) representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44. \n O quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.",
+        "text": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos. \n Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (ligação simples COO de carga negativa). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M de carga n positiva representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44. \n O quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.",
         "extra_resources": [
             {
                 "type": "image",
-                "content": ""
+                "content": "",
+                "description": "No solo com biocarvão, ao grupo orgânico do tipo carboxilato é adicionado M de carga n positiva, formando no solo fertilizado o grupo orgânico com ligação simples COO de carga negativa que interage com M de carga n positiva."
             },
             {
                 "type": "table",
-                "content": [["Elemento metálico", "Eletronegatividade"], ["K", "0,82"], ["Ca", "1,00"], ["Mg", "1,31"], ["Zn", "1,65"], ["Fe", "1,83"]]
+                "content": [["Elemento metálico", "Eletronegatividade"], ["K", "0,82"], ["Ca", "1,00"], ["Mg", "1,31"], ["Zn", "1,65"], ["Fe", "1,83"]],
+                "description": "O quadro apresenta as eletronegatividades de cinco elementos metálicos: \n Potássio: 0,82 \n Cálcio: 1,00 \n Magnésio: 1,31 \n Zinco: 1,65 \n Ferro: 1,83"
             }
         ],
         "statement": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
@@ -419,7 +429,7 @@
         "correct_answer": "a"
     },
     "32": {
-        "text": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.",
+        "text": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 graus Celsius e uma saída para água líquida em equilíbrio com o vapor a 100 graus Celsius. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.",
         "statement": "No processo de concentração do produto, é utilizada energia proveniente",
         "alternatives": {
             "a": "somente do calor latente de vaporização",
@@ -471,7 +481,7 @@
         "correct_answer": "e"
     },
     "36": {
-        "text": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química: \n R3N + HCl -> (R3NH)^(+) Cl^-",
+        "text": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química: \n [O reagente R3N mais HCl formam o produto R3NH de carga positiva e Cl de carga negativa]",
         "statement": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
         "alternatives": {
             "a": "basicidade",
@@ -486,7 +496,8 @@
         "text": "A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons provenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o Fe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química altamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de Fe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "",
+            "description": "Seis reações acopladas da cadeia respiratória, na seguinte sequência: \n Primeira reação: Substrato proveniente do nutriente gera C O2, enquanto NAD de carga positiva gera N A D H. \n Segunda reação: N A D H gera NAD de carga positiva, enquanto o transportador 1 passa da forma oxidada para a forma reduzida; \n Terceira reação: O transportador 1 passa da forma reduzida para a oxidada, enquanto o transportador 2 passa da oxidada para a reduzida; \n Quarta reação: O transportador 2 passa da forma reduzida para a oxidada, enquanto o transportador 3 passa da oxidada para a reduzida; \n Quinta reação: O transportador 3 passa da forma reduzida para a oxidada, enquanto o Fe de carga 3 positiva da citocromo c oxidase é convertido a Fe de carga 2 positiva. \n Sexta reação: Finalmente, acoplado à conversão de Fe de carga 2 positiva em Fe de carga 3 positiva, ocorre a produção de H2O a partir de O2."
         },
         "statement": "Esse bloqueio aumenta a concentração celular de",
         "alternatives": {
@@ -515,7 +526,8 @@
         "extra_resources": {
             "type": "image",
             "title": "Aldrin",
-            "content": ""
+            "content": "",
+            "description": "Estrutura química da molécula de Aldrin. Essa ilustração não foi descrita, pois suas informações não foram solicitadas para a resolução da questão."
         },
         "statement": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
         "alternatives": {
@@ -555,11 +567,26 @@
         "text": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão P0 no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era T0. Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal)",
         "statement": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
         "alternatives": {
-            "a": "",
-            "b": "",
-            "c": "",
-            "d": "",
-            "e": ""
+            "a": {
+                "content": "",
+                "description": "Descrição do gráfico: A pressão permanece constante com a diminuição da temperatura entre T zero e T. Em T, a temperatura não se altera, e a pressão diminui."
+            },
+            "b": {
+                "content": "",
+                "description": "Descrição do gráfico: A pressão permanece constante com a diminuição da temperatura entre T zero e T."
+            },
+            "c": {
+                "content": "",
+                "description": "Descrição do gráfico: A pressão aumenta como um arco de parábola para cima com a diminuição da temperatura entre T zero e T."
+            },
+            "d": {
+                "content": "",
+                "description": "Descrição do gráfico: A pressão aumenta linearmente com a diminuição da temperatura entre T zero e T."
+            },
+            "e": {
+                "content": "",
+                "description": "Descrição do gráfico: A pressão diminui linearmente com a diminuição da temperatura entre T zero e T."
+            }
         },
         "correct_answer": "e"
     },
@@ -568,7 +595,8 @@
         "extra_resources": {
             "type": "image",
             "title": "Tensoativo não biodegradável",
-            "content": ""
+            "content": "",
+            "description": "Estrutura do tensoativo não biodegradável, que tem como cadeia principal o grupo benzenossulfonato de sódio (anel aromático ligado a SO3 de carga negativa, que interage com o cátion Na de carga positiva). Ao anel aromático desse grupo encontra-se ligada uma ramificação com uma cadeia carbônica de sete átomos de carbono que contém, em seis deles, ramificações com grupos CH3. (Fim da descrição)"
         },
         "statement": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
         "alternatives": {
@@ -594,6 +622,9 @@
     },
     "45": {
         "text": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso.",
+        "extra_resources": {
+            "description": "O esquema apresenta um corte transversal da crosta terrestre em que se tem, de cima para baixo, uma camada de rocha, uma camada de líquido e outra camada de rocha. A espessura da camada de líquido é de 450 metros. Na parte superior da crosta terrestre, tem-se a representação de um emissor e detector de pulsos."
+        },
         "statement": "A velocidade do som na camada líquida, em metro por segundo, é",
         "alternatives": {
             "a": "270",
