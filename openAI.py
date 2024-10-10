@@ -24,13 +24,18 @@ def retrieve_modules(subjects):
     return modules
 
 def retrieve_enem_question(questionId):
-    questionsFile = open('./enem2023/Math.json')
+    questionsFile = open('./enem2023/HumanScience.json')
     questionsJson = json.load(questionsFile)
     questionsFile.close()
 
     extraResourcesDescription = ""
     if ('extra_resources' in questionsJson[questionId]):
-        extraResourcesDescription = questionsJson[questionId]['extra_resources']['description']
+        extraResourceObj = questionsJson[questionId]['extra_resources']
+        if isinstance(extraResourceObj, list):
+            for resource in range(0, len(extraResourceObj)):
+                extraResourcesDescription = extraResourcesDescription + extraResourceObj[resource]['description']
+        else:
+            extraResourcesDescription = extraResourceObj['description']
 
     return questionsJson[questionId]['text'], questionsJson[questionId]['statement'], questionsJson[questionId]['alternatives'], extraResourcesDescription
 
@@ -54,7 +59,7 @@ def create_openAi_user_content(modules, questionText, questionStatement, alterna
     return content
 
 def add_modules_to_json(questionId, modules):
-    with open('./enem2023/definedModules/ModulesIdByMathQuestion.json', 'r+') as modulesIdFile:
+    with open('./enem2023/definedModules/ModulesIdByHSQuestion.json', 'r+') as modulesIdFile:
         modulesIdJson = json.load(modulesIdFile)
 
         newQuestion = {questionId: []}
@@ -68,7 +73,7 @@ def add_modules_to_json(questionId, modules):
         json.dump(modulesIdJson, modulesIdFile)
     
 
-enemComponent = "math" # can be also retrieved from user
+enemComponent = "humanScience" # can be also retrieved from user
 for i in range(1, 46):
     questionId = str(i) # can be also retrieved from user
     todaTeoriaSubjects = retrieve_subjects(enemComponent)
