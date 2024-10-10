@@ -3,7 +3,7 @@
         "text": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura. \n Em seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base. \n O tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M1.png",
             "description": "A imagem é formada por duas figuras. A figura à esquerda apresenta um cone circular reto, com diâmetro da base igual a 18 centímetros e altura igual a 36 centímetros. Nele está destacado um cone circular reto, de mesmo vértice e mesmo eixo de simetria mas altura menor, e cujo diâmetro da base é igual a 6 centímetros. A figura à direita mostra o tronco de cone, obtido pela retirada do cone de altura menor do cone de altura maior, do qual foi removido também um cilindro circular reto, de diâmetro igual a 6 centímetros, com o mesmo eixo de simetria que o cone original."
         },
         "statement": "Qual é a massa, em grama, dessa escultura?",
@@ -20,7 +20,7 @@
         "text": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração. Os funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.",
         "extra_resources": {
             "type": "table",
-            "content": [["Setor", "Quantidade de funcionários", "Salário(em real)"], ["Produção", "75", "2000"], ["Administração", "25", "7000"]],
+            "content": "./img/M2.png",
             "description": "Quadro com três colunas, nesta ordem: setor; quantidade de funcionários e salário, em real. Produção; 75 funcionários e 2000,00 reais de salário. Administração; 25 funcionários e 7000,00 reais de salário."
         },
         "statement": "A média dos salários dos 100 funcionários dessa empresa, em real, é",
@@ -49,7 +49,7 @@
         "text": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela. \n O gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II. \n Suponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
         "extra_resources": {
             "type": "table",
-            "content": [["Produto", "Vendas em abril (unidade)", "Vendas em maio (unidade)", "Vendas em junho (unidade)"], ["I", "80", "90", "100"], ["II", "190", "170", "150"]],
+            "content": "./img/M4.png",
             "description": "Tabela que apresenta as quantidades de unidades vendidas em abril, em maio e em junho, dos produtos 1 e 2. \n Produto 1: 80 em abril, 90 em maio e 100 em junho. \n Produto 2: 190 em abril, 170 em maio e 150 em junho."
         },
         "statement": "Em qual mês o produto II parou de ser produzido?",
@@ -66,7 +66,7 @@
         "text": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M5.png",
             "description": "Gráfico de barras que associa o número de viagens realizadas à quantidade de motoristas que realizaram essas viagens. \n 1 viagem: 10 motoristas \n 2 viagens: 10 motoristas \n 3 viagens: 55 motoristas \n 4 viagens: 25 motoristas \n 5 viagens: 0 motorista \n 6 viagens: 50 motoristas \n 7 viagens: 10 motoristas"
         },
         "statement": "Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
@@ -120,12 +120,12 @@
         "extra_resources": [
             {
                 "type": "table",
-                "content": [["Horário (h)", "Nível da água (m)"], ["6:00", "0,5"], ["8:00", "1,1"], ["12:00", "2,3"], ["15:00", "3,2"]],
+                "content": "./img/M9_1.png",
                 "description": "Quadro que fornece o nível da água, em metro, em quatro horários. \n 6 horas: 0,5 metro \n 8 horas: 1,1 metro \n 12 horas: 2,3 metros \n 15 horas: 3,2 metros"
             },
             {
                 "type": "image",
-                "content": "",
+                "content": "./img/M9_2.png",
                 "description": "Foto em preto e branco de pessoas construindo uma cisterna em frente a uma casa."
             }
         ],
@@ -143,7 +143,7 @@
         "text": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4, Q5 e Q6 também indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo alpha = AQ1B.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M10.png",
             "description": "A figura apresenta um campo de futebol, no qual os pontos A e B marcam as extremidades de uma das traves; o ponto Q índice 1 é vértice do triângulo A, Q índice 1, B, e o ângulo A, Q índice 1, B mede alfa graus. A figura apresenta, também, cinco circunferências: circunferência 1 passa pelos pontos A, Q índice 4 e B; circunferência 2 passa pelos pontos A, Q índice 2 e B; circunferência 3 passa pelos pontos A, Q índice 3, Q índice 1 e B; circunferência 4 passa pelos pontos A, Q índice 5 e B; circunferência 5 passa pelos pontos A, Q índice 6 e B. O raio da circunferência 1 é menor que o raio da circunferência 2, que é menor que o raio da circunferência 3, que é menor que o raio da circunferência 4, que é menor que o raio da circunferência 5. "
         },
         "statement": "Qual é o jogador que receberá a bola?",
@@ -160,7 +160,7 @@
         "text": "O triângulo da figura é denominado triângulo mágico. Nos círculos, escrevem-se os números de 1 a 6, sem repetição, com um número em cada círculo. O objetivo é distribuir os números de forma que as somas dos números em cada lado do triângulo sejam iguais. \n Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M11.png",
             "description": "A figura apresenta um triângulo. Em cada vértice e em cada ponto médio dos lados do triângulo, há um círculo."
         },
         "statement": "Nas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
@@ -189,7 +189,7 @@
         "text": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura. \n Os cabos de aço formam um ângulo a com o plano do chão. \n Por medida de segurança, há apenas três opções de instalação: \n - opção I: h = 11 m e alpha = 30° \n - opção II: h = 12 m e alpha = 45° \n - opção III: h = 18 m e alpha = 60°",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M13.png",
             "description": "A figura representa o mastro de uma bandeira instalado perpendicularmente ao solo de uma região plana. No mastro há um ponto P, a uma altura h do solo, que é vértice comum a três triângulos; os outros dois vértices de cada triângulo são: o ponto de fixação do mastro no chão e o ponto de fixação de um cabo no chão. Em cada triângulo, o ângulo oposto ao lado que contém parte do mastro mede alfa."
         },
         "statement": "Qual será a medida, em metro, de cada um dos cabos a serem instalados?",
@@ -206,7 +206,7 @@
         "text": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida. \n A tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm. \n Essa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M14.png",
             "description": "Gráfico cartesiano, em que o eixo horizontal indica a distância, e o eixo vertical indica a altitude, sendo a unidade de medida em cada um dos eixos igual à medida do lado do quadradinho da malha que é igual a 1 centímetro. O gráfico é formado por cinco segmentos de reta que representam a trajetória desde o ponto de origem do voo até seu ponto de destino. \n Segmento 1: de (0 ; 0) a (2 ; 1). \n Segmento 2: de (2 ; 1) a (7 ; 1). \n Segmento 3: de (7 ; 1) a (9 ; 0,5). \n Segmento 4: de (9 ; 0,5) a (10 ; 0,5). \n Segmento 5: de (10 ; 0,5) a (12 ; 0)."
         },
         "statement": "A escala em que essa tela representa as medidas reais é",
@@ -235,7 +235,7 @@
         "text": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo. \n Durante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M16.png",
             "description": "Gráfico cartesiano que relaciona os valores, em milhar de real, de duas criptomoedas, A e B, com o tempo, em hora, no qual estão destacados nove pontos que representam valores dessas criptomoedas em nove instantes. O eixo horizontal representa os valores da criptomoeda A, e o eixo vertical, os valores da criptomoeda B para esses nove instantes. \n 9 horas: (3 ; 0,5) \n 10 horas: (2 ; 2) \n 11 horas: (4 ; 4) \n 12 horas: (5,5 ; 3) \n 13 horas: (6 ; 1,5) \n 14 horas: (3,5 ; 2) \n 15 horas: (2,5 ; 4) \n 16 horas: (1 ; 5) \n 17 horas: (0,5 ; 3,5)"
         },
         "statement": "Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
@@ -276,7 +276,7 @@
         "text": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M19.png",
             "description": "Quadro com três figuras que representam as silhuetas de parte de três torres de um castelo em frente à lua cheia. As torres têm a forma de um retângulo com um triângulo equilátero no topo. O triângulo que representa o telhado da torre mais alta está sobreposto ao círculo, tem um vértice coincidente com o centro do círculo e o lado oposto a esse vértice é um segmento de reta externo ao círculo."
         },
         "statement": "Nesse quadro, a parte da lua escondida atrás da torre mais alta do castelo pode ser representada por um",
@@ -293,7 +293,7 @@
         "text": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m^2. Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M20.png",
             "description": "Figura de um quadrado representando uma piscina, emoldurado por uma faixa de largura constante igual a 5 metros, representando a calçada."
         },
         "statement": "Qual é a medida da área, em metro quadrado, ocupada pela calçada?",
@@ -310,7 +310,7 @@
         "text": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M21.png",
             "description": "Gráfico cartesiano sobre uma malha quadriculada, em que o eixo horizontal representa o tempo, em minuto, graduado de 0 a 30, de 2 em 2 unidades; e o eixo vertical representa a intensidade do sinal de internet. Os segmentos de reta que formam o gráfico são: \n Segmento 1: une os pontos (0; 5) a (2; 5); \n Segmento 2: une os pontos (2; 5) a (6; 2); \n Segmento 3: une os pontos (6; 2) a (8; 2); \n Segmento 4: une os pontos (8; 2) a (10; 0); \n Segmento 5: une os pontos (10; 0) a (12; 0); \n Segmento 6: une os pontos (12; 0) a (14; 4); \n Segmento 7: une os pontos (14; 4) a (16; 0); \n Segmento 8: une os pontos (16; 0) a (20; 0); \n Segmento 9: une os pontos (20; 0) a (22; 3); \n Segmento 10: une os pontos (22; 3) a (24; 3); \n Segmento 11: une os pontos (24; 3) a (26; 2); \n Segmento 12: une os pontos (26; 2) a (28; 5); \n Segmento 13: une os pontos (28; 5) a (30; 5)."
         },
         "statement": "Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
@@ -327,7 +327,7 @@
         "text": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade. \n Após a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M22.png",
             "description": "Gráfico de pontos com o eixo horizontal indicando a massa corporal, em quilograma; e o eixo vertical, a altura, em metro. Os pontos do gráfico têm as seguintes coordenadas: \n Ponto 1: (50; 1,6) \n Ponto 2: (58; 1,65) \n Ponto 3: (60; 1,65) \n Ponto 4: (63; 1,68) \n Ponto 5: (70; 1,7) \n Ponto 6: (85; 1,5) \n Ponto 7: (85; 1,65) \n Ponto 8: (90; 1,63) \n Ponto 9: (108; 1,75) \n Ponto 10: (120; 1,7)"
         },
         "statement": "Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
@@ -405,15 +405,30 @@
         "extra_resources": {
             "type": "image",
             "title": "Distância do vigilante em relação à base em função do tempo",
-            "content": ""
+            "content": "./img/M28.png"
         },
         "statement": "A vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
         "alternatives": {
-            "a": "",
-            "b": "",
-            "c": "",
-            "d": "",
-            "e": ""
+            "a": {
+                "content": "./img/M28_a.png",
+                "description": ""
+            },
+            "b": {
+                "content": "./img/M28_b.png",
+                "description": ""
+            },
+            "c": {
+                "content": "./img/M28_c.png",
+                "description": ""
+            },
+            "d": {
+                "content": "./img/M28_d.png",
+                "description": ""
+            },
+            "e": {
+                "content": "./img/M28_e.png",
+                "description": ""
+            }
         },
         "correct_answer": "a"
     },
@@ -422,7 +437,7 @@
         "extra_resources": {
             "type": "image",
             "title": "Números da campanha contra a gripe A-H1N1",
-            "content": "",
+            "content": "./img/M29.png",
             "description": "Gráfico de barras que associam categorias em processo de imunização com a porcentagem de pessoas já imunizadas na categoria. \n Trabalhadores da saúde: 100 por cento. \n Crianças de 6 meses a 2 anos: entre 80 e 90 por cento. \n Indígenas: entre 60 e 70 por cento. \n Doentes crônicos: entre 55 e 60 por cento. \n Gestantes: entre 50 e 55 por cento. \n Adultos entre 20 e 29 anos: entre 40 e 50 por cento."
         },
         "statement": "De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
@@ -439,7 +454,7 @@
         "text": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas. \n Nessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M30.png",
             "description": "Figura de uma escada com três degraus, localizada em frente a uma porta. Cada degrau tem piso e espelho em forma de retângulo e suas laterais são retangulares. O piso de cada degrau mede 1,0 metro por 0,25 metro, e o espelho de cada degrau mede 1,0 metro por 0,20 metro. Cada uma das paredes laterais da escada é formada por três retângulos justapostos: o primeiro mede 0,25 metro por 0,20 metro; o segundo mede 0,25 metro por 0,40 metro e o terceiro mede 0,25 metro por 0,60 metro."
         },
         "statement": "A área a ser revestida em cerâmica, em metro quadrado, mede",
@@ -457,12 +472,12 @@
         "extra_resources": [
             {
                 "type": "table",
-                "content": [["Dias da semana", "Caminhar", "Correr", "Andar de bicicleta", "Jogar futebol"], ["Segunda-feira", "1", "0,5", "0", "2"], ["Terça-feira", "0,5", "1", "0,5", "1"], ["Quarta-feira", "0", "1,5", "1", "0,5"], ["Quinta-feira", "0", "2", "0", "0"], ["Sexta-feira", "0", "0,5", "0", "2,5"]],
+                "content": "./img/M31_1.png",
                 "description": "Quadro que apresenta as quantidades de horas diárias gastas em quatro atividades: caminhar; correr; andar de bicicleta e jogar futebol, em cinco dias da semana. \n Segunda-feira; 1,0; 0,5; 0,0 e 2,0. \n Terça-feira; 0,5; 1,0; 0,5 e 1,0. \n Quarta-feira; 0,0; 1,5; 1,0 e 0,5. \n Quinta-feira; 0,0; 2,0; 0,0 e 0,0. \n Sexta-feira; 0,0; 0,5; 0,0 e 2,5."
             },
             {
                 "type": "table",
-                "content": [["Atividade física", "Caminhar", "Correr", "Andar de bicicleta", "Jogar futebol"], ["Gasto calórico (cal/h)", "248", "764", "356", "492"]],
+                "content": "./img/M31_2.png",
                 "description": "Quadro apresenta o gasto calórico, em caloria por hora, das atividades físicas. \n Caminhar: 248 \n Correr: 764 \n Andar de bicicleta: 356 \n Jogar futebol: 492"
             }
         ],
@@ -504,7 +519,8 @@
         "text": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo L0 a intensidade na sua superfície. \n Considere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "./img/M34.png",
+            "description": "O esquema apresenta a intensidade luminosa de acordo com a profundidade, em metro, de um rio. A 0 metro: L índice 0; a 1 metro: dois terços de L índice 0; a 2 metros: quatro nonos de L índice 0; e a 3 metros: oito vinte e sete avos de L índice 0."
         },
         "statement": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
         "alternatives": {
@@ -542,11 +558,18 @@
     },
     "37": {
         "text": "Sejam a, b e c as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores a, b e c são, respectivamente, os diâmetros dos círculos C1, C2 e C3, como apresentados na figura. \n Observe que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3). \n Um professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura. \n A partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
-        "extra_resources": {
-            "type": "image",
-            "content": ["", ""],
-            "description": ["A figura apresenta um triângulo retângulo de lados a, b e c; o círculo C índice 1, que tem o lado a do triângulo como diâmetro; o círculo C índice 2, que tem o lado b do triângulo como diâmetro, e o círculo C índice 3, que tem o lado c do triângulo como diâmetro. ", "Figura de um triângulo, em que um dos ângulos tem medida igual a alfa e cada um de seus lados é diâmetro de um semicírculo. O semicírculo, cujo diâmetro é o lado oposto ao ângulo alfa, representa a meia pizza do professor de matemática; os outros dois semicírculos representam a meia pizza do amigo 1 e a meia pizza do amigo 2."]
-        },
+        "extra_resources": [
+            {
+                "type": "image",
+                "content": "./img/M37_1.png",
+                "description": "A figura apresenta um triângulo retângulo de lados a, b e c; o círculo C índice 1, que tem o lado a do triângulo como diâmetro; o círculo C índice 2, que tem o lado b do triângulo como diâmetro, e o círculo C índice 3, que tem o lado c do triângulo como diâmetro. "
+            },
+            {
+                "type": "image",
+                "content": "./img/M37_2.png",
+                "description": "Figura de um triângulo, em que um dos ângulos tem medida igual a alfa e cada um de seus lados é diâmetro de um semicírculo. O semicírculo, cujo diâmetro é o lado oposto ao ângulo alfa, representa a meia pizza do professor de matemática; os outros dois semicírculos representam a meia pizza do amigo 1 e a meia pizza do amigo 2."
+            }
+        ],
         "statement": "A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
         "alternatives": {
             "a": "0° < alpha < 90°",
@@ -573,7 +596,7 @@
         "text": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira. \n Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a posição da poltrona na fileira, respectivamente.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M39.png",
             "description": "Mapa de uma sala de cinema. No mapa, há uma rosa dos ventos que indica o oeste à esquerda, o norte para cima, o leste à direita e o sul para baixo. À frente das poltronas está localizada a tela; as poltronas estão posicionadas em colunas, numeradas de 1 a 12 e em filas nomeadas de A a J. As colunas das poltronas estão posicionadas, da esquerda para a direita, da seguinte maneira: 1, 2 e 3; escada; 4, 5, 6, 7, 8 e 9; escada; 10, 11 e 12. As filas estão nomeadas, de baixo para cima, da seguinte maneira: A, B, C, D, E, F, G, H, I e J. A entrada está localizada à esquerda da tela e a estrela está localizada na escada que se encontra entre as colunas 3 e 4 na altura da fila E."
         },
         "statement": "A poltrona dessa pessoa é a identificada por",
@@ -602,7 +625,7 @@
         "text": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.",
         "extra_resources": {
             "type": "image",
-            "content": ""
+            "content": "./img/M41.png"
         },
         "statement": "O oitavo número pentagonal é",
         "alternatives": {
@@ -618,29 +641,29 @@
         "text": "A figura ilustra uma roda-gigante no exato instante em mais alto dessa roda-gigante. \n Com o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M42.png",
             "description": "A figura representa uma roda-gigante, cujos suportes estão apoiados ao solo, no instante em que a cadeira onde se encontra uma pessoa P está no ponto mais alto dessa roda. Uma seta indica que a roda-gigante gira no sentido horário."
         },
         "statement": "O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
         "alternatives": {
             "a": {
-                "content": "",
+                "content": "./img/M42_a.png",
                 "description": "O gráfico é representado por uma cossenoide."
             },
             "b": {
-                "content": "",
+                "content": "./img/M42_b.png",
                 "description": "O gráfico é representado por uma linha poligonal formada por 4 segmentos de reta de mesmo comprimento, decrescentes e crescentes alternadamente."
             },
             "c": {
-                "content": "",
+                "content": "./img/M42_c.png",
                 "description": "O gráfico é representado por uma linha poligonal formada por 7 segmentos de reta, 4 deles decrescentes e crescentes alternadamente e de mesmo comprimento, interligados por 3 segmentos de reta horizontais de mesmo comprimento."
             },
             "d": {
-                "content": "",
+                "content": "./img/M42_d.png",
                 "description": "O gráfico é representado por 3 arcos de parábolas com concavidade para baixo, formando uma única curva contínua."
             },
             "e": {
-                "content": "",
+                "content": "./img/M42_e.png",
                 "description": "O gráfico é representado por 2 arcos de parábolas com concavidade para cima, formando uma única curva contínua."
             }
         },
@@ -651,23 +674,23 @@
         "statement": "Um esboço de gráfico que descreve o volume de água acumulado, em litro, liberado por essa torneira durante um ciclo de lavagem das mãos, em função do tempo ( t ), em segundo, é",
         "alternatives": {
             "a": {
-                "content": "",
+                "content": "./img/M43_a.png",
                 "description": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 2) e (11 ; 4)."
             },
             "b": {
-                "content": "",
+                "content": "./img/M43_b.png",
                 "description": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 2) e (8 ; 2) e o terceiro liga os pontos (8 ; 2) e (11 ; 4)."
             },
             "c": {
-                "content": "",
+                "content": "./img/M43_c.png",
                 "description": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 2) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 2) e (11 ; 2)."
             },
             "d": {
-                "content": "",
+                "content": "./img/M43_d.png",
                 "description": "O gráfico é formado por um segmento de reta que liga os pontos (0 ; 0) e (11 ; 4)."
             },
             "e": {
-                "content": "",
+                "content": "./img/M43_e.png",
                 "description": "O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 0) e (11 ; 4)."
             }
         },
@@ -677,7 +700,7 @@
         "text": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.",
         "extra_resources": {
             "type": "image",
-            "content": "",
+            "content": "./img/M44.png",
             "description": "Quadrinho com seis personagens, cada personagem mostra com os dedos um número e diz o nome desse número. Abaixo de cada um deles há, em arábico, o número dito. Os números que aparecem na figura e os seus respectivos nomes falados pelos personagens são: \n 1: Urapum! \n 2: Okosa! \n 3: Okosa urapum! \n 4: Okosa okosa! \n 5: não consta o nome do número. \n 6: Okosa okosa okosa!"
         },
         "statement": "Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
