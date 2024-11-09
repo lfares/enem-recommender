@@ -1,0 +1,16 @@
+{
+  "resourceName": "questions",
+  "tableName": "Questions",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "number"
+  },
+  "sortKey": {
+    "fieldName": "subject",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": [
+    "questionsTriggerb16e20cb"
+  ]
+}
