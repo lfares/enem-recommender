@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-enemrecommender-dev-dd97d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::481665124130:role/amplify-enemrecommender-dev-dd97d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::481665124130:role/amplify-enemrecommender-dev-dd97d-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-enemrecommender-dev-dd97d-deployment",
+      "UnauthRoleName": "amplify-enemrecommender-dev-dd97d-unauthRole",
+      "StackName": "amplify-enemrecommender-dev-dd97d",
+      "StackId": "arn:aws:cloudformation:us-east-2:481665124130:stack/amplify-enemrecommender-dev-dd97d/4b75cf70-9ea1-11ef-ad8f-02ccda078d6f",
+      "AmplifyAppId": "d34dhkqeqk1tdt"
+    }
+  }
+}
