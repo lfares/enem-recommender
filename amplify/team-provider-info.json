@@ -10,6 +10,23 @@
       "StackName": "amplify-enemrecommender-dev-dd97d",
       "StackId": "arn:aws:cloudformation:us-east-2:481665124130:stack/amplify-enemrecommender-dev-dd97d/4b75cf70-9ea1-11ef-ad8f-02ccda078d6f",
       "AmplifyAppId": "d34dhkqeqk1tdt"
+    },
+    "categories": {
+      "function": {
+        "questionsTriggerb16e20cb": {
+          "deploymentBucketName": "amplify-enemrecommender-dev-dd97d-deployment",
+          "s3Key": "amplify-builds/questionsTriggerb16e20cb-58665533457748484958-build.zip"
+        }
+      },
+      "storage": {
+        "questions": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d34dhkqeqk1tdt",
+          "type": "manual"
+        }
+      }
     }
   }
 }

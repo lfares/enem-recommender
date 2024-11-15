@@ -6,8 +6,8 @@
   "javascript": {
     "framework": "react-native",
     "config": {
-      "SourceDir": "src",
-      "DistributionDir": "/",
+      "SourceDir": "frontend",
+      "DistributionDir": "frontend/build",
       "BuildCommand": "npm run build",
       "StartCommand": "npm start"
     }
