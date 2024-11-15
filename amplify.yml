@@ -1,0 +1,17 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - cd frontend               # Navigate into the frontend folder (or where your package.json is)
+        - npm install               # Install dependencies in the frontend folder
+    build:
+      commands:
+        - npm run build             # Run the build script in the frontend folder
+  artifacts:
+    baseDirectory: frontend/build    # Specify the directory where the build artifacts are located
+    files:
+      - '**/*'                      # Include all files from the build directory
+  cache:
+    paths:
+      - frontend/node_modules/**/*   # Cache the frontend node_modules for faster builds
