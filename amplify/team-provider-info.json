@@ -23,7 +23,10 @@
           "deploymentBucketName": "amplify-enemrecommender-dev-c016f-deployment",
           "s3Key": "amplify-builds/QuestionsTriggerc430485f-49663952504e4d304a32-build.zip"
         },
-        "QuestionsExtraction": {}
+        "QuestionsExtraction": {
+          "deploymentBucketName": "amplify-enemrecommender-dev-c016f-deployment",
+          "s3Key": "amplify-builds/QuestionsExtraction-434d6e7750586a434559-build.zip"
+        }
       },
       "storage": {
         "Questions": {}

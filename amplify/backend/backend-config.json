@@ -44,6 +44,22 @@
     }
   },
   "parameters": {
+    "AMPLIFY_function_QuestionsExtraction_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "QuestionsExtraction"
+        }
+      ]
+    },
+    "AMPLIFY_function_QuestionsExtraction_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "QuestionsExtraction"
+        }
+      ]
+    },
     "AMPLIFY_function_QuestionsTriggerc430485f_deploymentBucketName": {
       "usedBy": [
         {

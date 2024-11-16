@@ -1,5 +1,12 @@
 export type AmplifyDependentResourcesAttributes = {
   "function": {
+    "QuestionsExtraction": {
+      "Arn": "string",
+      "LambdaExecutionRole": "string",
+      "LambdaExecutionRoleArn": "string",
+      "Name": "string",
+      "Region": "string"
+    },
     "QuestionsTriggerc430485f": {
       "Arn": "string",
       "LambdaExecutionRole": "string",
