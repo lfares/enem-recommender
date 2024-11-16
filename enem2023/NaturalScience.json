@@ -39,7 +39,7 @@
         "text": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seguintes parâmetros:",
         "extra_resources": {
             "type": "table",
-            "content": "./img/NS4.png",
+            "content": "img/NS4.png",
             "description": "O quadro indica os parâmetros medidos para testes de 1 a 5: Teste 1: cálcio; Teste 2: cloreto; Teste 3: turbidez; Teste 4: coliformes totais; Teste 5: sólidos sedimentáveis."
         },
         "statement": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
@@ -116,7 +116,7 @@
         "text": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas. \n Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração",
         "extra_resources": {
             "type": "table",
-            "content": "./img/NS10.png",
+            "content": "img/NS10.png",
             "description": "O quadro apresenta as grandezas cinemáticas da esfera: velocidade v e aceleração a. Quando o módulo de v é diferente de zero, o sentido é para cima ou para baixo. Quando o módulo de v é igual a zero, o sentido é indefinido. Quando o módulo de a é diferente de zero, o sentido é para cima ou para baixo. Quando o módulo de a é igual a zero, o sentido é indefinido."
         },
         "statement": "A escolha que corresponde à combinação correta é",
@@ -230,7 +230,7 @@
         "extra_resources": {
             "type": "image",
             "title": ["Aparelho do tipo 1", "Aparelho do tipo 2"],
-            "content": ["./img/NS19_1.png", "./img/NS19_2.png"],
+            "content": ["img/NS19_1.png", "img/NS19_2.png"],
             "description": "Duas figuras ilustram os aparelhos do tipo 1 e do tipo 2. \n Aparelho do tipo 1: um corpo de massa M1 está suspenso por uma extremidade de um cabo de aço vertical que passa por uma polia fixa no teto do aparelho. O cabo segue horizontalmente para outra polia fixa na lateral externa do aparelho. A partir dali, o cabo desce verticalmente passando por uma polia fixa à base do aparelho, e sobe verticalmente puxado por uma força F para cima. \n Aparelho do tipo 2: um cabo de aço preso ao teto do aparelho desce e contorna uma polia móvel que está presa a um corpo de massa M2. O cabo segue verticalmente para cima e passa por uma polia fixa no teto do aparelho. O cabo segue horizontalmente para outra polia fixa na lateral externa do aparelho. A partir dali, o cabo desce verticalmente passando"
         },
         "statement": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
@@ -247,28 +247,28 @@
         "text": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(I) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química: \n <equation>Hg2(NO3)2 (aq) + 2 NaCl (aq) --> Hg2Cl2 (s) + 2 NaNO3 (aq)</equation> \n Na dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro. \n O produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g molˆ-1, a do NaCl é 58 g molˆ–1 e a do Hg2Cl2 é 472 g molˆ–1.",
         "extra_resources": {
             "type": "table",
-            "content": "./img/NS20.png"
+            "content": "img/NS20.png"
         },
         "statement": "Qual foi o gráfico obtido pelo assistente de laboratório?",
         "alternatives": {
             "a": {
-                "content": "./img/NS20_a.png",
+                "content": "img/NS20_a.png",
                 "description": ""
             },
             "b": {
-                "content": "./img/NS20_b.png",
+                "content": "img/NS20_b.png",
                 "description": ""
             },
             "c": {
-                "content": "./img/NS20_c.png",
+                "content": "img/NS20_c.png",
                 "description": ""
             },
             "d": {
-                "content": "./img/NS20_d.png",
+                "content": "img/NS20_d.png",
                 "description": ""
             },
             "e": {
-                "content": "./img/NS20_e.png",
+                "content": "img/NS20_e.png",
                 "description": ""
             }
         },
@@ -278,7 +278,7 @@
         "text": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.",
         "extra_resources": {
             "type": "image",
-            "content": "./img/NS21.png",
+            "content": "img/NS21.png",
             "description": "Cebolinha e Cascão brincam, a uma certa distância um do outro, com duas latas conectadas por um barbante esticado. Cebolinha segura uma lata de conservas, e Cascão, uma lata de lixo. Eles utilizam esse dispositivo para ouvir a voz um do outro."
         },
         "statement": "Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
@@ -319,7 +319,7 @@
         "text": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s^2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s^2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e o assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s^2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.",
         "extra_resources": {
             "type": "image",
-            "content": "./img/NS24.png",
+            "content": "img/NS24.png",
             "description": "Um caminhão com velocidade na horizontal para a direita (representada pelo vetor V). Na superfície central da sua carroceria encontra-se apoiada uma caixa M. A caixa está presa à parte traseira da carroceria pela corda horizontal 1 e, à parte dianteira, pela corda horizontal 2."
         },
         "statement": "Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
@@ -348,7 +348,7 @@
         "text": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.",
         "extra_resources": {
             "type": "image",
-            "content": "./img/NS26.png",
+            "content": "img/NS26.png",
             "description": "Gás nitrogênio é convertido em amônia por microrganismos do grupo 1. Detritos são convertidos em amônia por microrganismos do grupo 2. Amônia é convertida em nitrito por microrganismos do grupo 3. Nitrito é convertido em nitrato por microrganismos do grupo 4. Nitrato é convertido em gás nitrogênio por microrganismos do grupo 5."
         },
         "statement": "Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
@@ -406,7 +406,7 @@
         "text": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2 e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.",
         "extra_resources": {
             "type": "image",
-            "content": "./img/NS30.png",
+            "content": "img/NS30.png",
             "description": "Uma fonte de energia ligada a três conjuntos, dispostos em série no sentido horário, na seguinte sequência: o conjunto em paralelo de L1 e R, o conjunto em paralelo de L2 e R, e o conjunto em paralelo de L3 e R."
         },
         "statement": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
@@ -424,12 +424,12 @@
         "extra_resources": [
             {
                 "type": "image",
-                "content": "./img/NS31_1.png",
+                "content": "img/NS31_1.png",
                 "description": "No solo com biocarvão, ao grupo orgânico do tipo carboxilato é adicionado M de carga n positiva, formando no solo fertilizado o grupo orgânico com ligação simples COO de carga negativa que interage com M de carga n positiva."
             },
             {
                 "type": "table",
-                "content": "./img/NS31_2.png",
+                "content": "img/NS31_2.png",
                 "description": "O quadro apresenta as eletronegatividades de cinco elementos metálicos: \n Potássio: 0,82 \n Cálcio: 1,00 \n Magnésio: 1,31 \n Zinco: 1,65 \n Ferro: 1,83"
             }
         ],
@@ -459,7 +459,7 @@
         "text": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é: \n Além do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:",
         "extra_resources": {
             "type": "image",
-            "content": ["./img/NS33_1.png", "./img/NS33_2.png"]
+            "content": ["img/NS33_1.png", "img/NS33_2.png"]
         },
         "statement": "O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
         "alternatives": {
@@ -511,7 +511,7 @@
         "text": "A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons provenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o Fe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química altamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de Fe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.",
         "extra_resources": {
             "type": "image",
-            "content": "./img/NS37.png",
+            "content": "img/NS37.png",
             "description": "Seis reações acopladas da cadeia respiratória, na seguinte sequência: \n Primeira reação: Substrato proveniente do nutriente gera C O2, enquanto NAD de carga positiva gera N A D H. \n Segunda reação: N A D H gera NAD de carga positiva, enquanto o transportador 1 passa da forma oxidada para a forma reduzida; \n Terceira reação: O transportador 1 passa da forma reduzida para a oxidada, enquanto o transportador 2 passa da oxidada para a reduzida; \n Quarta reação: O transportador 2 passa da forma reduzida para a oxidada, enquanto o transportador 3 passa da oxidada para a reduzida; \n Quinta reação: O transportador 3 passa da forma reduzida para a oxidada, enquanto o Fe de carga 3 positiva da citocromo c oxidase é convertido a Fe de carga 2 positiva. \n Sexta reação: Finalmente, acoplado à conversão de Fe de carga 2 positiva em Fe de carga 3 positiva, ocorre a produção de H2O a partir de O2."
         },
         "statement": "Esse bloqueio aumenta a concentração celular de",
@@ -541,7 +541,7 @@
         "extra_resources": {
             "type": "image",
             "title": "Aldrin",
-            "content": "./img/NS39.png",
+            "content": "img/NS39.png",
             "description": "Estrutura química da molécula de Aldrin. Essa ilustração não foi descrita, pois suas informações não foram solicitadas para a resolução da questão."
         },
         "statement": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
@@ -583,23 +583,23 @@
         "statement": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
         "alternatives": {
             "a": {
-                "content": "./img/NS42_a.png",
+                "content": "img/NS42_a.png",
                 "description": "Descrição do gráfico: A pressão permanece constante com a diminuição da temperatura entre T zero e T. Em T, a temperatura não se altera, e a pressão diminui."
             },
             "b": {
-                "content": "./img/NS42_b.png",
+                "content": "img/NS42_b.png",
                 "description": "Descrição do gráfico: A pressão permanece constante com a diminuição da temperatura entre T zero e T."
             },
             "c": {
-                "content": "./img/NS42_c.png",
+                "content": "img/NS42_c.png",
                 "description": "Descrição do gráfico: A pressão aumenta como um arco de parábola para cima com a diminuição da temperatura entre T zero e T."
             },
             "d": {
-                "content": "./img/NS42_d.png",
+                "content": "img/NS42_d.png",
                 "description": "Descrição do gráfico: A pressão aumenta linearmente com a diminuição da temperatura entre T zero e T."
             },
             "e": {
-                "content": "./img/NS42_e.png",
+                "content": "img/NS42_e.png",
                 "description": "Descrição do gráfico: A pressão diminui linearmente com a diminuição da temperatura entre T zero e T."
             }
         },
@@ -610,7 +610,7 @@
         "extra_resources": {
             "type": "image",
             "title": "Tensoativo não biodegradável",
-            "content": "./img/NS43.png",
+            "content": "img/NS43.png",
             "description": "Estrutura do tensoativo não biodegradável, que tem como cadeia principal o grupo benzenossulfonato de sódio (anel aromático ligado a SO3 de carga negativa, que interage com o cátion Na de carga positiva). Ao anel aromático desse grupo encontra-se ligada uma ramificação com uma cadeia carbônica de sete átomos de carbono que contém, em seis deles, ramificações com grupos CH3. (Fim da descrição)"
         },
         "statement": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
@@ -638,7 +638,7 @@
     "45": {
         "text": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso.",
         "extra_resources": {
-            "content": "./img/NS45.png",
+            "content": "img/NS45.png",
             "description": "O esquema apresenta um corte transversal da crosta terrestre em que se tem, de cima para baixo, uma camada de rocha, uma camada de líquido e outra camada de rocha. A espessura da camada de líquido é de 450 metros. Na parte superior da crosta terrestre, tem-se a representação de um emissor e detector de pulsos."
         },
         "statement": "A velocidade do som na camada líquida, em metro por segundo, é",
