@@ -1,0 +1,27 @@
+{
+  "resourceName": "Questions",
+  "tableName": "QuestionsEnem",
+  "partitionKey": {
+    "fieldName": "Id",
+    "fieldType": "number"
+  },
+  "gsi": [
+    {
+      "name": "Subject",
+      "partitionKey": {
+        "fieldName": "Subject",
+        "fieldType": "string"
+      }
+    },
+    {
+      "name": "Year",
+      "partitionKey": {
+        "fieldName": "Year",
+        "fieldType": "number"
+      }
+    }
+  ],
+  "triggerFunctions": [
+    "QuestionsTriggerc430485f"
+  ]
+}

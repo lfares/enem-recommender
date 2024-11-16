@@ -1,6 +1,8 @@
 # Recommendation System for ENEM
 A personalized recommender system to study based on ENEM test results
 
+Public URL: https://dev.d1cntwz97jp7ba.amplifyapp.com/
+
 ## Initial Setup
 
 1. Install dependencies
@@ -16,8 +18,7 @@ npm install -g @aws-amplify/cli
 3. Setup Frontend configs
 
 ```
-npx create-react-app frontend
-cd frontend
+npx create-react-app 
 npm install aws-amplify @aws-amplify/ui-react
 ```
 
