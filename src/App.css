@@ -1,38 +1,109 @@
-.App {
+body {
+  font-family: Arian, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  padding: 30px 0;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.home-page h1 span {
+  font-weight: bold;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.selection-group {
+  margin: 20px 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.question-page {
+  width: 70%;
+  margin: auto;
+  text-align: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  height: 70vh;
+  padding: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.question-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  max-width: 800px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.question-card h2, .question-card p, .question-card img, .question-card .alternatives {
+  margin: 10px 0; 
+  text-align: left; 
+}
+
+.question-card img {
+  max-width: 200px;
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.question-header {
+  font-size: 20px;
+  text-align: left;
+}
+
+.question-id {
+  font-weight: bold;
+}
+
+.question-statement {
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: left;
+}
+
+.alternatives {
+  margin-top: 20px;
+}
+
+.alternative-option {
+  display: block;
+  margin: 10px 0;
+}
+
+.navigation-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.finalize-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
