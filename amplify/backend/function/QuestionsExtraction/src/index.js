@@ -26,11 +26,11 @@ exports.handler = async (event, context) => {
 
       const resources = question.extra_resources;
       const imagesPath = Array.isArray(resources) ? resources.map(res => res.content) 
-                        : Array.isArray(resources.content) ? resources.content
-                        : resources.content ? [resources.content] : null;
+                        : (resources && Array.isArray(resources.content)) ? resources.content
+                        : resources ? [resources.content] : null;
       const ImagesDescription = Array.isArray(resources) ? resources.map(res => res.description)
-                                : Array.isArray(resources.description) ? resources.description
-                                : resources.description ? [resources.description] : null;
+                                : (resources && Array.isArray(resources.description)) ? resources.description
+                                : resources ? [resources.description] : null;
 
       const ddbItem = {
         Id: currId,
