@@ -6,7 +6,7 @@ import QuestionCard from './QuestionCard';
 const QuestionPage = () => {
     const [questions, setQuestions] = useState([]);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-    const [selectedAnswer, setSelectedAnswer] = useState(null);
+    const [selectedAnswers, setSelectedAnswers] = useState({});
     // const navigate = useNavigate();
 
     const subject = localStorage.getItem('subject');
@@ -50,19 +50,20 @@ const QuestionPage = () => {
     const handlePrevious = () => {
         if (currentQuestionIndex > 0) {
             setCurrentQuestionIndex(currentQuestionIndex - 1);
-            setSelectedAnswer(null);
         }
     };
 
     const handleNext = () => {
         if (currentQuestionIndex < questions.length - 1) {
             setCurrentQuestionIndex(currentQuestionIndex + 1);
-            setSelectedAnswer(null);
         }
     };
 
     const handleAnswerSelect = (answer) => {
-        setSelectedAnswer(answer);
+        setSelectedAnswers((prev) => ({
+            ...prev,
+            [questions[currentQuestionIndex].Id]: answer,
+        }));
     };
 
     return (
@@ -70,7 +71,7 @@ const QuestionPage = () => {
             {questions.length > 0 && (
                 <QuestionCard 
                     question={questions[currentQuestionIndex]}
-                    selectedAnswer={selectedAnswer}
+                    selectedAnswer={selectedAnswers[questions[currentQuestionIndex].Id]}
                     onAnswerSelect={handleAnswerSelect}
                 />
             )}
