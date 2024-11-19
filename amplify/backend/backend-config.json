@@ -97,6 +97,10 @@
     "Questions": {
       "providerPlugin": "awscloudformation",
       "service": "DynamoDB"
+    },
+    "Responses": {
+      "providerPlugin": "awscloudformation",
+      "service": "DynamoDB"
     }
   }
 }

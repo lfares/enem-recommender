@@ -1,0 +1,14 @@
+{
+  "resourceName": "Responses",
+  "tableName": "Responses",
+  "partitionKey": {
+    "fieldName": "UserId",
+    "fieldType": "number"
+  },
+  "sortKey": {
+    "fieldName": "TestId",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

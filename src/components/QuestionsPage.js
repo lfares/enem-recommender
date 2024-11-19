@@ -7,8 +7,11 @@ const QuestionPage = () => {
     const [questions, setQuestions] = useState([]);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [selectedAnswers, setSelectedAnswers] = useState({});
+    const [year, setYear] = useState(null);
+    const [isFinished, setIsFinished] = useState(false);
     // const navigate = useNavigate();
 
+    const userId = 1;
     const subject = localStorage.getItem('subject');
     console.log(`Starting to process Questions for subject ${subject}`);
 
@@ -39,6 +42,8 @@ const QuestionPage = () => {
                 const sortedQuestions = data.Items.sort((a, b) => a.Id - b.Id);
 
                 setQuestions(sortedQuestions);
+
+                setYear(data.Items ? data.Items[0].Year : "2023");
             } catch (err) {
                 console.error("Error fetching questions: ", err);
             }
@@ -66,6 +71,36 @@ const QuestionPage = () => {
         }));
     };
 
+    const sendResponsesToSQS = () => {
+        const sqs = new AWS.SQS();
+
+        const testId = `${subject}-${year}`;
+        const body = {
+            UserId: userId,
+            TestId: testId,
+            Responses: selectedAnswers,
+            isFinished: isFinished
+        };
+
+        const params = {
+            QueueUrl: 'https://sqs.us-east-1.amazonaws.com/481665124130/ResponsesEvents',
+            MessageBody: JSON.stringify(body)
+        }
+
+        sqs.sendMessage(params, (err, data) => {
+            if (err) {
+                console.error("Error sending message to ResponseEvents SQS", err);
+            } else {
+                console.log(`Message sent to ResponseEvents SQS with ID ${data.MessageId} and body ${data.MD5OfMessageBody}`);
+            }
+        });
+    };
+
+    const handleFinish = () => {
+        setIsFinished(true);
+        sendResponsesToSQS();
+    }
+
     return (
         <div className='question-page'>
             {questions.length > 0 && (
@@ -79,6 +114,7 @@ const QuestionPage = () => {
             <div className='navigation-buttons'>
                 <button onClick={handlePrevious}>Anterior</button>
                 <button onClick={handleNext}>Próxima</button>
+                <button className='finalize-button' onClick={handleFinish}>Finalizar</button>
             </div>
         </div>
     );

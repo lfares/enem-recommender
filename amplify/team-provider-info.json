@@ -29,7 +29,8 @@
         }
       },
       "storage": {
-        "Questions": {}
+        "Questions": {},
+        "Responses": {}
       }
     }
   }

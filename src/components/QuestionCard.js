@@ -26,8 +26,6 @@ const QuestionCard = ({ question, selectedAnswer, onAnswerSelect}) => {
                     </label>
                 ))}
             </div>
-
-            <button className='finalize-button'>Finalizar</button>
         </div>
     )
 };
