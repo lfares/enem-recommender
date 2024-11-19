@@ -34,6 +34,11 @@
       ],
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
+    },
+    "ResponsesBuild": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
     }
   },
   "hosting": {
@@ -73,6 +78,22 @@
         {
           "category": "function",
           "resourceName": "QuestionsTriggerc430485f"
+        }
+      ]
+    },
+    "AMPLIFY_function_ResponsesBuild_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ResponsesBuild"
+        }
+      ]
+    },
+    "AMPLIFY_function_ResponsesBuild_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ResponsesBuild"
         }
       ]
     },
