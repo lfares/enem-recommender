@@ -19,22 +19,6 @@
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
     },
-    "QuestionsTriggerc430485f": {
-      "build": true,
-      "dependsOn": [
-        {
-          "attributes": [
-            "Name",
-            "Arn",
-            "StreamArn"
-          ],
-          "category": "storage",
-          "resourceName": "Questions"
-        }
-      ],
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    },
     "ResponsesBuild": {
       "build": true,
       "providerPlugin": "awscloudformation",
@@ -62,22 +46,6 @@
         {
           "category": "function",
           "resourceName": "QuestionsExtraction"
-        }
-      ]
-    },
-    "AMPLIFY_function_QuestionsTriggerc430485f_deploymentBucketName": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "QuestionsTriggerc430485f"
-        }
-      ]
-    },
-    "AMPLIFY_function_QuestionsTriggerc430485f_s3Key": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "QuestionsTriggerc430485f"
         }
       ]
     },
