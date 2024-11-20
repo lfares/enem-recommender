@@ -67,7 +67,7 @@ const QuestionPage = () => {
     const handleAnswerSelect = (answer) => {
         setSelectedAnswers((prev) => ({
             ...prev,
-            [questions[currentQuestionIndex].Id]: answer,
+            [questions[currentQuestionIndex].FriendlyQuestionId]: answer,
         }));
     };
 
@@ -79,7 +79,7 @@ const QuestionPage = () => {
             UserId: userId,
             TestId: testId,
             Responses: selectedAnswers,
-            isFinished: isFinished
+            IsFinished: isFinished
         };
 
         const params = {
@@ -106,7 +106,7 @@ const QuestionPage = () => {
             {questions.length > 0 && (
                 <QuestionCard 
                     question={questions[currentQuestionIndex]}
-                    selectedAnswer={selectedAnswers[questions[currentQuestionIndex].Id]}
+                    selectedAnswer={selectedAnswers[questions[currentQuestionIndex].FriendlyQuestionId]}
                     onAnswerSelect={handleAnswerSelect}
                 />
             )}
