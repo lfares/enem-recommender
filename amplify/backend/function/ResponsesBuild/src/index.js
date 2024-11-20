@@ -20,6 +20,7 @@ exports.handler = async (event) => {
                 UserId: body.UserId,
                 TestId: body.TestId,
                 Responses: body.Responses,
+                WrongSelection: body.WrongSelection,
                 IsFinished: body.IsFinished
             }
         };

@@ -7,6 +7,7 @@ const QuestionPage = () => {
     const [questions, setQuestions] = useState([]);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [selectedAnswers, setSelectedAnswers] = useState({});
+    const [wrongSelection, setWrongSelection] = useState([]);
     const [year, setYear] = useState(null);
     const [isFinished, setIsFinished] = useState(false);
     // const navigate = useNavigate();
@@ -65,10 +66,18 @@ const QuestionPage = () => {
     };
 
     const handleAnswerSelect = (answer) => {
+        const currQuestion = questions[currentQuestionIndex]
         setSelectedAnswers((prev) => ({
             ...prev,
-            [questions[currentQuestionIndex].FriendlyQuestionId]: answer,
+            [currQuestion.FriendlyQuestionId]: answer,
         }));
+
+        if (answer != currQuestion.CorrectAnswer) {
+            setWrongSelection((prev) => [...prev, currQuestion.FriendlyQuestionId]);
+        } else {
+            // Removes ID from wrong selection in case user changed her answer to the correct one
+            setWrongSelection((prev) => prev.filter((id) => id != currQuestion.FriendlyQuestionId));
+        }
     };
 
     const sendResponsesToSQS = () => {
@@ -79,6 +88,7 @@ const QuestionPage = () => {
             UserId: userId,
             TestId: testId,
             Responses: selectedAnswers,
+            WrongSelection: wrongSelection,
             IsFinished: isFinished
         };
 
@@ -91,7 +101,7 @@ const QuestionPage = () => {
             if (err) {
                 console.error("Error sending message to ResponseEvents SQS", err);
             } else {
-                console.log(`Message sent to ResponseEvents SQS with ID ${data.MessageId} and body ${data.MD5OfMessageBody}`);
+                console.log(`Message sent to ResponseEvents SQS with ID ${data.MessageId} and body ${JSON.stringify(body)}`);
             }
         });
     };
