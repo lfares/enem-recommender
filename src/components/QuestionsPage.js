@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import AWS from 'aws-sdk';
-// import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import QuestionCard from './QuestionCard';
 
 const QuestionPage = () => {
@@ -10,7 +10,7 @@ const QuestionPage = () => {
     const [wrongSelection, setWrongSelection] = useState([]);
     const [year, setYear] = useState(null);
     const [isFinished, setIsFinished] = useState(false);
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
 
     const userId = 1;
     const subject = localStorage.getItem('subject');
@@ -109,6 +109,8 @@ const QuestionPage = () => {
     const handleFinish = () => {
         setIsFinished(true);
         sendResponsesToSQS();
+
+        navigate('/results', { state: { subject: subject, year: year}});
     }
 
     return (
