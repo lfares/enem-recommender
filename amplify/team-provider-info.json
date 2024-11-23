@@ -21,7 +21,7 @@
       "function": {
         "QuestionsExtraction": {
           "deploymentBucketName": "amplify-enemrecommender-dev-c016f-deployment",
-          "s3Key": "amplify-builds/QuestionsExtraction-44336f50456c6948746f-build.zip"
+          "s3Key": "amplify-builds/QuestionsExtraction-7741533448334e564577-build.zip"
         },
         "ResponsesBuild": {
           "deploymentBucketName": "amplify-enemrecommender-dev-c016f-deployment",

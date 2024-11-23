@@ -28,6 +28,7 @@ openAI_test.py
 
 # misc
 .DS_Store
+enem2023/.DS_Store
 .env.local
 .env.development.local
 .env.test.local

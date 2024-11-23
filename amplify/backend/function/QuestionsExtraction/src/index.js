@@ -39,6 +39,7 @@ exports.handler = async (event, context) => {
         TypeAlternative: Object.values(question.alternatives).some(value => typeof value === 'object') ? 'image' : 'text',
         Alternatives: question.alternatives,
         CorrectAnswer: question.correct_answer,
+        TodaTeoriaModules: question.todaTeoriaModules,
         ImagesPath: imagesPath,
         ImagesDescription: ImagesDescription,
         FriendlyQuestionId: friendlyQuestionId,
