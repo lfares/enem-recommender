@@ -1,0 +1,10 @@
+{
+  "resourceName": "MatchedMaterials",
+  "tableName": "MatchedMaterials",
+  "partitionKey": {
+    "fieldName": "TestId",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

@@ -30,7 +30,8 @@
       },
       "storage": {
         "Questions": {},
-        "Responses": {}
+        "Responses": {},
+        "MatchedMaterials": {}
       }
     }
   }

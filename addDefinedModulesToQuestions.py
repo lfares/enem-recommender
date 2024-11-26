@@ -1,7 +1,7 @@
 import json
 
-definedModulesJsonPath = './enem2023/definedModules/ModulesIdByHSQuestion.json'
-questionsJsonPath = './enem2023/HumanScience.json'
+definedModulesJsonPath = './enem2023/definedModules/ModulesIdByNSQuestion.json'
+questionsJsonPath = './enem2023/NaturalScience.json'
 todaTeoriaModulesKey = "todaTeoriaModules"    
 
 def retrieveModuleJson():

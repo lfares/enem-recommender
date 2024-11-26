@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const SubjectCard = ({subject, year, isTestDone, correctAnswers, totalQuestions, onRestartTest}) => {
+const SubjectCard = ({subject, year, isTestDone, correctAnswers, totalQuestions, onRestartTest, onRecommendation}) => {
     localStorage.setItem('exam', "ENEM");
     localStorage.setItem('year', year);
     localStorage.setItem('subject', subject);
@@ -20,7 +20,7 @@ const SubjectCard = ({subject, year, isTestDone, correctAnswers, totalQuestions,
                 <div className='subject-buttons-container'>
                     {isTestDone ? (
                         <>
-                            <button className='subject-rec-button'>Recomendações de estudo</button>
+                            <button className='subject-rec-button' onClick={() => onRecommendation(subject)}>Recomendações de estudo</button>
                             <button className='subject-review-button'>Revisar</button>
                             <button className='subject-restart-button' onClick={() => onRestartTest(subject)}>Refazer</button>
                         </>
