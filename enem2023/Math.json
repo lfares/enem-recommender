@@ -405,29 +405,30 @@
         "extra_resources": {
             "type": "image",
             "title": "Distância do vigilante em relação à base em função do tempo",
-            "content": "img/M28.png"
+            "content": "img/M28.png",
+            "description": "Gráfico (x, y), onde a distância do vigilante à base (km) é representada na linha y e o tempo (min) na linha x. O gráfico mostra uma linha reta saindo do ponto (0, 0) e chegando em (10, 3); depois a linha reta vai do ponto (10, 3) até o ponto (20, 3); finalizando uma terceira reta que vai do ponto (20, 3) ao ponto (30, 0)."
         },
         "statement": "A vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
         "alternatives": {
             "a": {
                 "content": "img/M28_a.png",
-                "description": ""
+                "description": "A imagem mostra um triângulo com a ponta para baixo e o lado de cima levemente arredondado, com 3 setas, uma em cada lado, apontando no sentido horário."
             },
             "b": {
                 "content": "img/M28_b.png",
-                "description": ""
+                "description": "A imagem mostra um triângulo com a ponta para baixo e todos os lados retos, com 3 setas, uma em cada lado, apontando no sentido horário."
             },
             "c": {
                 "content": "img/M28_c.png",
-                "description": ""
+                "description": "A imagem mostra duas retas concorrentes, se o unindo em um ponto em cima (como se fosse um triângulo com a ponta para cima e o lado posto de baixo apagado), com 2 setas, uma em cada reta, apontando no sentido horário."
             },
             "d": {
                 "content": "img/M28_d.png",
-                "description": ""
+                "description": "A imagem mostra três retas, como no gráfico da questão, uma inclinada subindo para a direita, uma horizontal, e uma inclinada descendo para direita, com 3 setas, uma em cada reta, apontando no sentido horário."
             },
             "e": {
                 "content": "img/M28_e.png",
-                "description": ""
+                "description": "A imagem mostra metade de um circulo, com o lado reto embaixo, e a metade de cima arrendondada, com 4 setas, duas na parte arredondada de cima e duas na parte reta de baixo, apontando no sentido horário."
             }
         },
         "correct_answer": "a"
@@ -625,7 +626,8 @@
         "text": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.",
         "extra_resources": {
             "type": "image",
-            "content": "img/M41.png"
+            "content": "img/M41.png",
+            "description": "A imagem mostra 6 figuras. A primeira, entitulada '1', contém um ponto. A segunda, entitulada '5', contém um pentágono pequeno com um ponto grifado em cada um de seus pontos. A terceira figura, entitulada '12', contém o pentágona ilustrado na figura anterior dentro de um pentágono maior, sendo que este possui pontos grifados em todos seus cantos de interscção mais um no meio de cada lado, e os mesmos pontos grifados do pentágono menor. A quarta figura, entitulada '22', segue o mesmo parâmetro, contendo um pentágono maior e os pentágonos das figuras '5' e '12' dentro dele, com pontos grifados nos cantos e 2 nos meios dos lados maiores. A quinta e sexta figura, entituladas '35' e '51' respectivamente, segue o mesmo parâmetro anterior, ou seja, a figura '35' possui um pentágono grande com 3 dentro dele e pontos grifados nos cantos e 3 dentro de cada lado; já a sexta e última figura ('51') possui 4 pentágonos dentro do pentágono maior, com pontos grifados em seus cantos mais 4 em cada lado."
         },
         "statement": "O oitavo número pentagonal é",
         "alternatives": {
